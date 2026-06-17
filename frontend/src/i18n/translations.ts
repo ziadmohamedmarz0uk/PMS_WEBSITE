@@ -112,6 +112,15 @@ export const translations = {
         stock_transfers: 'Stock Transfers',
         global_view: 'Global View (All Branches)',
         branch_access: 'Branch Access:',
+        branch_filter: 'Branch',
+        employee_filter: 'Employee / Cashier',
+        all_branches: 'All Branches',
+        all_employees: 'All Employees',
+        employee_performance: 'Employee Performance Breakdown',
+        today_sales: 'Sales Today',
+        today_revenue: 'Revenue Today',
+        month_sales: 'Sales This Month',
+        month_revenue: 'Revenue This Month',
 
         // Invoices Page
         view_all_invoices_desc: 'View all historical sales transactions',
@@ -358,6 +367,15 @@ export const translations = {
         stock_transfers: 'تحويلات الفروع',
         global_view: 'عرض شامل (كل الفروع)',
         branch_access: 'فرع:',
+        branch_filter: 'الفرع',
+        employee_filter: 'الموظف / الكاشير',
+        all_branches: 'جميع الفروع',
+        all_employees: 'جميع الموظفين',
+        employee_performance: 'جدول أداء الموظفين',
+        today_sales: 'مبيعات اليوم',
+        today_revenue: 'إيراد اليوم',
+        month_sales: 'مبيعات الشهر',
+        month_revenue: 'إيراد الشهر',
 
         // Invoices Page
         view_all_invoices_desc: 'عرض جميع حركات ومبيعات النظام السابقة',
