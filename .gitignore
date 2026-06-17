@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Build outputs
+.next/
+out/
+build/
+dist/
+/public/storage
+/public/build
+/public/hot
+
+# OS files
+.DS_Store
+Thumbs.db
+*.log
+
+# IDEs
+.idea/
+.vscode/
+.zed/
+.fleet/
+.nova/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

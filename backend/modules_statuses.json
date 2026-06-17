@@ -1,0 +1,9 @@
+{
+    "Auth": true,
+    "Catalog": true,
+    "Inventory": true,
+    "POS": true,
+    "Shift": true,
+    "Transfer": true,
+    "Procurement": true
+}
